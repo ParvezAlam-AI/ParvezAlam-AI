@@ -1,6 +1,6 @@
 ## PARVEZ AlAM
 
-### Check out my GenAI Stock Market Chat Bot. 
+### Check out my GenAI Stock Market Chat xpert. 
 A brilliant interation with OpenAI, yahoo finance and some strong capabilities. 
 https://github.com/ParvezAlam-AI/AI-App-Challenge-2024.git
 
