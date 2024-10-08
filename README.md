@@ -2,6 +2,10 @@
 
 ### Check out my GenAI Stock Market Chat Bot. 
 A brilliant interation with OpenAI, yahoo finance and some strong capabilities. 
+https://github.com/ParvezAlam-AI/AI-App-Challenge-2024.git
+
+![image](https://github.com/user-attachments/assets/dc1321ed-38fc-47bc-a3c3-2f13cbc88804)
+
 
 ### Expertise in inqubating analytics function to achieve digital transformation initiatives in the organisation.  
   I specialize in crafting actionable insights, developing robust data models, and generateing data-driven dashboards and reports that enhance growth and improve client experiences. 
