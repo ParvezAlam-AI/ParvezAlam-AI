@@ -1,5 +1,8 @@
 ## PARVEZ AlAM
 
+### Check out my GenAI Stock Market Chat Bot. 
+A brilliant interation with OpenAI, yahoo finance and some strong capabilities. 
+
 ### Expertise in inqubating analytics function to achieve digital transformation initiatives in the organisation.  
   I specialize in crafting actionable insights, developing robust data models, and generateing data-driven dashboards and reports that enhance growth and improve client experiences. 
 
